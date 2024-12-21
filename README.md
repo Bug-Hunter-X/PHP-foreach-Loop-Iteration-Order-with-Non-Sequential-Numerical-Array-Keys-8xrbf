@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in PHP related to the `foreach` loop's behavior when iterating over arrays with non-sequential numerical keys. The `bug.php` file shows the problematic code, and `bugSolution.php` provides a solution to ensure predictable iteration order, even with non-sequential keys.
